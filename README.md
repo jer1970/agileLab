@@ -10,3 +10,5 @@ a dazzlin_feature change made in this branch
 
 Change made in dazzling_feature to provoke conflict
 
+10/10/18 this is a new line
+
